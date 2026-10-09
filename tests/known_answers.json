@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What is the due date for Sarah Lee's review of the salary ranges in Project Alpha-1?",
+    "must_contain": [
+      "October 13"
+    ]
+  },
+  {
+    "question": "What is the due date for the customer feedback survey for Project Bravo-1?",
+    "must_contain": [
+      "October 13th"
+    ]
+  },
+  {
+    "question": "What is the primary risk identified in the Project Charlie-1 budget review meeting?",
+    "must_contain": [
+      "over budget"
+    ]
+  },
+  {
+    "question": "What are the due dates for the action items discussed in Project Delta-1?",
+    "must_contain": [
+      "October 31st"
+    ]
+  },
+  {
+    "question": "What is the due date for Mark's proposal on the customer support training program in Project Echo-1?",
+    "must_contain": [
+      "November 3"
+    ]
+  },
+  {
+    "question": "What social media platforms were decided upon for the marketing campaign in Project Foxtrot-1?",
+    "must_contain": [
+      "Instagram and TikTok"
+    ]
+  },
+  {
+    "question": "What is the due date for David's proposal on the automated traffic management system for Project Golf-1?",
+    "must_contain": [
+      "October 15"
+    ]
+  },
+  {
+    "question": "What is the due date for Tom's action item regarding emergency traffic management solutions for Project Hotel-1?",
+    "must_contain": [
+      "October 20th"
+    ]
+  },
+  {
+    "question": "What are the due dates for the action items specified in the Project India-1 budget review meeting?",
+    "must_contain": [
+      "October 19, 2023"
+    ]
+  },
+  {
+    "question": "What is the deadline for the customer feedback survey in Project Juliet-1?",
+    "must_contain": [
+      "October 20th"
+    ]
+  },
+  {
+    "question": "What is the date of the scheduled webinar for Project Kilo-1?",
+    "must_contain": [
+      "April 8"
+    ]
+  },
+  {
+    "question": "What is the due date for the termination clause revision in Project Lima-1?",
+    "must_contain": [
+      "October 20th"
+    ]
+  },
+  {
+    "question": "What is the due date for Jane's social media campaign outline for Project Mike-1?",
+    "must_contain": [
+      "October 18, 2023"
+    ]
+  },
+  {
+    "question": "What was the due date for Cynthia to update the validation scripts in Project November-1?",
+    "must_contain": [
+      "September 25, 2023"
+    ]
+  },
+  {
+    "question": "What is the focus of the upcoming sprint in Project Oscar-1?",
+    "must_contain": [
+      "user authentication"
+    ]
+  },
+  {
+    "question": "Who will prepare the cost-benefit analysis for Project Papa-1?",
+    "must_contain": [
+      "Emily"
+    ]
+  },
+  {
+    "question": "What is the due date for the welcome kit and tutorial video development in Project Quebec-1?",
+    "must_contain": [
+      "October 31, 2023"
+    ]
+  },
+  {
+    "question": "What financial figure is Project Romeo-1 currently over budget by, according to the transcript?",
+    "must_contain": [
+      "200,000"
+    ]
+  },
+  {
+    "question": "What is the churn rate for the last quarter as reported in Project Sierra-1?",
+    "must_contain": [
+      "15%"
+    ]
+  },
+  {
+    "question": "Who is responsible for preparing the revised risk assessment protocol for Project Tango-1?",
+    "must_contain": [
+      "Michael Lee"
+    ]
+  },
+  {
+    "question": "What digital strategy was decided upon for Project Uniform-1?",
+    "must_contain": [
+      "digital-first"
+    ]
+  },
+  {
+    "question": "What is the primary focus of the sprint planning meeting for Project Victor-1?",
+    "must_contain": [
+      "user authentication"
+    ]
+  },
+  {
+    "question": "What is the target date for the data migration in Project Whiskey-1?",
+    "must_contain": [
+      "October 30th"
+    ]
+  },
+  {
+    "question": "What is the deadline for Mike to lead the implementation of Feature A in Project Xray-1?",
+    "must_contain": [
+      "October 27, 2023"
+    ]
+  },
+  {
+    "question": "What are the two decisions made regarding customer churn in Project Yankee-1?",
+    "must_contain": [
+      "task force"
+    ]
+  },
+  {
+    "question": "What is the due date for the visuals in Project Zulu-1?",
+    "must_contain": [
+      "Wednesday"
+    ]
+  },
+  {
+    "question": "What is the due date for Action Item Two in Project Alpha-2?",
+    "must_contain": [
+      "April 1, 2024"
+    ]
+  },
+  {
+    "question": "What is the due date for the CRM data mapping in Project Bravo-2?",
+    "must_contain": [
+      "March 24th"
+    ]
+  },
+  {
+    "question": "What is the due date for Sarah Kim to finalize the visual concepts and scripts for Project Charlie-2?",
+    "must_contain": [
+      "October 31, 2023"
+    ]
+  },
+  {
+    "question": "What is the deadline for the completion of the firewall configurations in Project Delta-2?",
+    "must_contain": [
+      "November 30, 2023"
+    ]
+  },
+  {
+    "question": "What date did the incident related to Project Echo-2 occur?",
+    "must_contain": [
+      "September 28, 2023"
+    ]
+  },
+  {
+    "question": "What is the deadline for the marketing plan and demo video in Project Foxtrot-2?",
+    "must_contain": [
+      "October 20"
+    ]
+  },
+  {
+    "question": "What is the implementation focus mentioned in decision one for Project Golf-2?",
+    "must_contain": [
+      "two-factor authentication"
+    ]
+  },
+  {
+    "question": "What is the planned date for the pre-launch event of Project Hotel-2?",
+    "must_contain": [
+      "December 5, 2023"
+    ]
+  },
+  {
+    "question": "What are the three action items assigned during the Project India-2 sprint planning meeting?",
+    "must_contain": [
+      "payment gateway integration specs"
+    ]
+  },
+  {
+    "question": "What is the allocated budget for Project Juliet-2?",
+    "must_contain": [
+      "$500,000"
+    ]
+  },
+  {
+    "question": "What is the due date for Mike's detailed report on hardware spending cuts in Project Kilo-2?",
+    "must_contain": [
+      "October 22, 2023"
+    ]
+  },
+  {
+    "question": "What date is confirmed for the launch of Project Lima-2?",
+    "must_contain": [
+      "March 25th"
+    ]
+  },
+  {
+    "question": "Who is leading the effort to standardize server configurations for Project Mike-2?",
+    "must_contain": [
+      "John"
+    ]
+  },
+  {
+    "question": "What date is Clara scheduled to finalize the vendor check-in meetings for Project November-2?",
+    "must_contain": [
+      "October 13th"
+    ]
+  },
+  {
+    "question": "What is the due date for the detailed testing plan and requirements for Project Oscar-2?",
+    "must_contain": [
+      "October 20"
+    ]
+  },
+  {
+    "question": "What is the due date for Bob to outline the user stories in Project Papa-2?",
+    "must_contain": [
+      "October 27"
+    ]
+  },
+  {
+    "question": "What was the decision made regarding the vendor for Project Quebec-2?",
+    "must_contain": [
+      "TechSolutions"
+    ]
+  },
+  {
+    "question": "What was the agreed reallocation amount for Project Romeo-2 during the budget review?",
+    "must_contain": [
+      "15,000"
+    ]
+  },
+  {
+    "question": "What is the due date for the prioritized list of unpatched software in Project Sierra-2?",
+    "must_contain": [
+      "October 17th"
+    ]
+  },
+  {
+    "question": "What is the deadline for David to create the revised marketing plan for Project Tango-2?",
+    "must_contain": [
+      "November 5th"
+    ]
+  },
+  {
+    "question": "What decisions were made regarding Vendor C during the Project Uniform-2 meeting?",
+    "must_contain": [
+      "Vendor C"
+    ]
+  },
+  {
+    "question": "What is the due date for Mark to draft revised service terms for Vendor A in Project Victor-2?",
+    "must_contain": [
+      "October 15, 2023"
+    ]
+  },
+  {
+    "question": "What is the due date for posting the job listings for the QA engineer and UI/UX designer in Project Whiskey-2?",
+    "must_contain": [
+      "October 18th"
+    ]
+  },
+  {
+    "question": "What is the deadline for completing the firewall updates in Project Xray-2?",
+    "must_contain": [
+      "October 31st"
+    ]
+  },
+  {
+    "question": "What risk did Marco mention concerning the TLS update for Project Yankee-2?",
+    "must_contain": [
+      "vendor dependencies"
+    ]
+  },
+  {
+    "question": "What are the two immediate roles prioritized for hiring in Project Zulu-2?",
+    "must_contain": [
+      "senior and mid-level software engineer"
+    ]
+  },
+  {
+    "question": "What is the confirmed launch date for Project Alpha-3?",
+    "must_contain": [
+      "November 20, 2023"
+    ]
+  },
+  {
+    "question": "What is the due date for Lisa Wong's action item regarding Vendor X's deliverables in Project Bravo-3?",
+    "must_contain": [
+      "March 18th"
+    ]
+  },
+  {
+    "question": "What is the due date for the video concept in Project Charlie-3?",
+    "must_contain": [
+      "October 22nd"
+    ]
+  }
+]

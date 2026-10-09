@@ -1,0 +1,12 @@
+openai>=1.50
+openai-whisper
+langchain>=0.3
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+streamlit
+requests
+python-dotenv
+pydantic>=2
